@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d781a375.chunk.css",
-    "main.js": "/static/js/main.7b54e5a0.chunk.js",
-    "main.js.map": "/static/js/main.7b54e5a0.chunk.js.map",
+    "main.js": "/static/js/main.f7dd7ac8.chunk.js",
+    "main.js.map": "/static/js/main.f7dd7ac8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1cad435e.js",
     "runtime-main.js.map": "/static/js/runtime-main.1cad435e.js.map",
     "static/js/2.b3944f3a.chunk.js": "/static/js/2.b3944f3a.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/clem-onojeghuo.862a0952.jpg": "/static/media/clem-onojeghuo.862a0952.jpg",
     "static/media/cynthia-del-rio.43673965.jpg": "/static/media/cynthia-del-rio.43673965.jpg",
     "static/media/kendall.ab8e0d7e.jpg": "/static/media/kendall.ab8e0d7e.jpg",
-    "static/media/landing-bg.jpg": "/static/media/landing-bg.64d7ac30.jpg",
+    "static/media/landing-bg.jpg": "/static/media/landing-bg.abf9668a.jpg",
     "static/media/landing.833419cc.jpg": "/static/media/landing.833419cc.jpg",
     "static/media/mariya-georgieva.0817f394.jpg": "/static/media/mariya-georgieva.0817f394.jpg",
     "static/media/olu-eletu.429cd6ef.jpg": "/static/media/olu-eletu.429cd6ef.jpg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.1cad435e.js",
     "static/js/2.b3944f3a.chunk.js",
     "static/css/main.d781a375.chunk.css",
-    "static/js/main.7b54e5a0.chunk.js"
+    "static/js/main.f7dd7ac8.chunk.js"
   ]
 }
